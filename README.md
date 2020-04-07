@@ -1,0 +1,1 @@
+# php-sum-diagonal-array
